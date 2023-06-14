@@ -1,0 +1,17 @@
+Estimasi waktu yang dibutuhkan kelompok 3 untuk menyelesaikan aplikasi presensi menggunakan QR Code dapat bervariasi tergantung pada faktor-faktor berikut:
+
+Analisis kebutuhan pengguna: Proses analisis kebutuhan pengguna melibatkan pemahaman mendalam tentang fitur-fitur yang diperlukan, alur kerja, integrasi dengan sistem yang sudah ada, dan persyaratan lainnya. Estimasi waktu untuk tahap ini dapat berkisar antara 1 hingga 2 minggu, tergantung pada kompleksitas kebutuhan.
+
+Desain aplikasi: Desain aplikasi meliputi perancangan antarmuka pengguna (UI) dan tata letak (layout) aplikasi. Waktu yang dibutuhkan untuk tahap ini tergantung pada kompleksitas desain yang diinginkan. Estimasi waktu yang umum adalah antara 1 hingga 2 minggu.
+
+Pembuatan prototype: Pembuatan prototype dapat dilakukan setelah desain awal selesai. Ini melibatkan pengembangan versi awal aplikasi yang dapat diuji dan dievaluasi oleh pengguna. Estimasi waktu untuk tahap ini dapat berkisar antara 2 hingga 4 minggu.
+
+Pengembangan aplikasi: Tahap pengembangan aplikasi melibatkan implementasi fitur-fitur yang diperlukan, pengembangan sistem basis data, logika bisnis, integrasi dengan API atau sistem lainnya, dan pengujian unit. Estimasi waktu untuk tahap ini sangat bervariasi tergantung pada kompleksitas dan skala proyek. Biasanya, tahap ini membutuhkan waktu beberapa minggu hingga beberapa bulan.
+
+Uji coba dan validasi: Setelah aplikasi selesai dikembangkan, tahap uji coba dan validasi dilakukan untuk memastikan kinerja dan keandalan aplikasi. Estimasi waktu untuk tahap ini dapat berkisar antara 1 hingga 2 minggu, tergantung pada jumlah pengujian yang dilakukan dan temuan yang perlu diperbaiki.
+
+Peluncuran dan penyebaran: Setelah aplikasi telah diuji dan divalidasi, tahap peluncuran dan penyebaran melibatkan implementasi aplikasi di lingkungan produksi, pelatihan pengguna, dan penyebaran aplikasi kepada pengguna akhir. Estimasi waktu untuk tahap ini dapat berkisar antara 1 hingga 2 minggu.
+
+Secara keseluruhan, estimasi waktu total untuk menyelesaikan aplikasi presensi menggunakan QR Code, termasuk semua tahapan di atas, dapat berkisar antara beberapa bulan hingga setahun, tergantung pada kompleksitas dan lingkup proyek. Penting untuk melakukan perencanaan yang matang dan mengalokasikan sumber daya yang memadai untuk memastikan pengembangan aplikasi yang sukses.
+
+Cara kami mendapatkan estimasi waktu berdasarkan pada sumber internet, waktu yang relevan untuk proses tahap pembuatan aplikasi tersebut
